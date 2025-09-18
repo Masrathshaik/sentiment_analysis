@@ -1,0 +1,21 @@
+text,sentiment
+"I love this product!",positive
+"The service was terrible.",negative
+"Average experience.",neutral
+"Fantastic quality and fast delivery.",positive
+"Not worth the money.",negative
+"Okay, nothing special.",neutral
+"Absolutely wonderful experience!",positive
+"The product broke after a week.",negative
+"Satisfactory service, but could be better.",neutral
+"Highly recommend this to everyone!",positive
+"Very disappointed with the purchase.",negative
+"Nothing extraordinary, just okay.",neutral
+"Amazing support from the team!",positive
+"Delivery was late and package damaged.",negative
+"It's fine, meets expectations.",neutral
+"Exceeded my expectations, fantastic!",positive
+"Poor quality, not happy.",negative
+"Meh, it's alright.",neutral
+"Superb! Will buy again.",positive
+"Worst experience ever.",negative
